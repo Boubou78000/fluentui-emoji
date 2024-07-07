@@ -1,4 +1,4 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1024" height="1024" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_23_372)">
 <g clip-path="url(#clip1_23_372)">
 <path d="M25.897 25.8987C32.4975 19.2983 31.3639 11.5682 25.897 6.10129C20.4301 0.634391 12.7001 -0.499157 6.09963 6.10129C-0.500819 12.7017 0.632729 20.4318 6.09963 25.8987C11.5665 31.3656 19.2966 32.4992 25.897 25.8987Z" fill="url(#paint0_radial_23_372)"/>
@@ -139,16 +139,16 @@
 <stop offset="1" stop-color="#3F5FFF"/>
 </radialGradient>
 <clipPath id="clip0_23_372">
-<rect width="32" height="32" fill="white"/>
+<rect width="1024" height="1024" fill="white"/>
 </clipPath>
 <clipPath id="clip1_23_372">
-<rect width="32" height="32" fill="white" transform="translate(-6.62744 16) rotate(-45)"/>
+<rect width="1024" height="1024" fill="white" transform="translate(-6.62744 16) rotate(-45)"/>
 </clipPath>
 <clipPath id="clip2_23_372">
-<rect width="32" height="32" fill="white" transform="translate(-6.62744 16) rotate(-45)"/>
+<rect width="1024" height="1024" fill="white" transform="translate(-6.62744 16) rotate(-45)"/>
 </clipPath>
 <clipPath id="clip3_23_372">
-<rect width="32" height="32" fill="white" transform="translate(-6.62744 16) rotate(-45)"/>
+<rect width="1024" height="1024" fill="white" transform="translate(-6.62744 16) rotate(-45)"/>
 </clipPath>
 </defs>
 </svg>

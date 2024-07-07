@@ -1,4 +1,4 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1024" height="1024" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_31_30)">
 <g clip-path="url(#clip1_31_30)">
 <path d="M19.6218 29.5211C28.6381 27.1051 31.5215 19.8439 29.5205 12.376C27.5194 4.90806 21.3918 0.0613532 12.3754 2.47729C3.35901 4.89322 0.475668 12.1544 2.47669 19.6223C4.47772 27.0903 10.6054 31.937 19.6218 29.5211Z" fill="url(#paint0_radial_31_30)"/>
@@ -94,10 +94,10 @@
 <stop offset="1" stop-color="#3D2432"/>
 </linearGradient>
 <clipPath id="clip0_31_30">
-<rect width="32" height="32" fill="white"/>
+<rect width="1024" height="1024" fill="white"/>
 </clipPath>
 <clipPath id="clip1_31_30">
-<rect width="32" height="32" fill="white" transform="translate(-3.59595 4.68628) rotate(-15)"/>
+<rect width="1024" height="1024" fill="white" transform="translate(-3.59595 4.68628) rotate(-15)"/>
 </clipPath>
 </defs>
 </svg>

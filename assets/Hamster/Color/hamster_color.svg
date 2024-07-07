@@ -232,7 +232,7 @@
 <stop offset="1" stop-color="#492F30" stop-opacity="0"/>
 </radialGradient>
 <clipPath id="clip0_28327_3793">
-<rect width="32" height="32" fill="white" transform="translate(0 0.96875)"/>
+<rect width="1024" height="1024" fill="white" transform="translate(0 0.96875)"/>
 </clipPath>
 </defs>
 </svg>

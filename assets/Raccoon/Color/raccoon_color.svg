@@ -1,4 +1,4 @@
-<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1024" height="1024" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
 <g clip-path="url(#clip0_28327_1998)">
 <g filter="url(#filter0_ii_28327_1998)">
 <path d="M6.24772 9.02629C6.37215 10.834 7.1422 12.2743 7.81052 13.0818L10.9199 9.73807C9.66332 8.8109 7.94002 8.42349 6.91017 8.34529C6.51967 8.31564 6.22082 8.6356 6.24772 9.02629Z" fill="url(#paint0_linear_28327_1998)"/>
@@ -328,7 +328,7 @@
 <stop offset="1" stop-color="#261317" stop-opacity="0"/>
 </radialGradient>
 <clipPath id="clip0_28327_1998">
-<rect width="32" height="32" fill="white"/>
+<rect width="1024" height="1024" fill="white"/>
 </clipPath>
 </defs>
 </svg>
